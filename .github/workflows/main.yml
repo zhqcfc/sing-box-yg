@@ -17,7 +17,7 @@ jobs:
     # 每行一个{serv00服务器}，一个服务也可，末尾用,间隔，最后一个服务器末尾无需用,间隔
       ACCOUNTS: >
         [
-        {"RES":"y", "REP":"y", "SSH_USER":"mzhjzz", "SSH_PASS":"Rf$jIh6b$!w%", "REALITY":"time.is", "SUUID":"752a3d28-34eb-4fe1-9bfa-eab832939082", "TCP1_PORT":"", "TCP2_PORT":"", "UDP_PORT":"", "HOST":"s10.serv00.com", "ARGO_DOMAIN":"你的argo固定域名", "ARGO_AUTH":""} 
+        {"RES":"y", "REP":"y", "SSH_USER":"mzhjzz", "SSH_PASS":"Rf$jIh6b$!w%)VK1XIc&", "REALITY":"time.is", "SUUID":"752a3d28-34eb-4fe1-9bfa-eab832939082", "TCP1_PORT":"", "TCP2_PORT":"", "UDP_PORT":"", "HOST":"s10.serv00.com", "ARGO_DOMAIN":"你的argo固定域名", "ARGO_AUTH":""} 
         ]
     steps:
       - name: Checkout Repository
